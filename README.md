@@ -4,13 +4,13 @@ Criar uma aplicação web utilizando ReactJS com AntDesign para consumir uma API
 criada (por você) no Firebase (cloud firestone).
 
 
-Regra de Negócio
+#### Regra de Negócio
 
 A aplicação será para uma loja de venda de carros online, com duas funções principais: Ver os
 carros ofertados e Administrar as ofertas (CRUD). Adicionar uma navbar com as duas opções:
 Ofertas e Administração
 
-CRUD de ofertas (Administração):
+#### CRUD de ofertas (Administração):
 
 Ao entrar na parte administrativa da aplicação (não precisa ter autenticação/login) o usuário
 verá uma tabela com as ofertas já existentes podendo filtrar por um campo de busca textual.
@@ -20,7 +20,7 @@ Modelo, Ano, Preço, Cor, Quilometragem, Placa, Cidade, Fotos (mais de uma) e Da
 Cadastro.
 
 
-Tela de Ofertas:
+#### Tela de Ofertas:
 
 Ao entrar na aplicação (não precisa ter autenticação/login) o usuário verá os vários veículos
 ofertados, podendo escolher se quer a visualização em lista ou em grade. As informações
